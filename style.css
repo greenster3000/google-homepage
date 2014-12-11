@@ -1,0 +1,39 @@
+
+body {
+	background-color: #C6DAFB;
+
+}
+img {
+	display: block;
+	margin:auto;
+}
+input {
+	display: block;
+	margin: auto;
+}
+#header {
+	position: relative;
+	
+	width = 80%;
+	height: 200px;
+	background-color: black;
+	margin: 10px;
+	
+	
+}
+
+#footer {
+	clear: left;
+	margin: 10px;
+	
+	background-color:red;
+	height: 100px;
+	width: 80%;
+}
+#sidebar {
+	float: left;
+	height: 200%;
+	width: 100px;
+	background-color: blue;
+	margin: 10px;
+}
